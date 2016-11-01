@@ -20,12 +20,16 @@ public class MainActivity extends AppCompatActivity {
     public void onClick(View v){
         switch (v.getId()){
             case R.id.button: //폴더생성
+            break;
 
             case R.id.button2: //폴더삭제
+                break;
 
             case R.id.button3: //파일생성
+                break;
 
             case R.id.button4: //파일삭제
+                break;
         }
     }
 
